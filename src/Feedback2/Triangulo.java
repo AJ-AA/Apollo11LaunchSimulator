@@ -259,6 +259,7 @@ public class Triangulo {
         }
         return numerodeveces;
     }
+
 }
 
 //fin del feedback
